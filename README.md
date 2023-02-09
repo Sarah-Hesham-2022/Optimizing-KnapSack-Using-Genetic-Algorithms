@@ -48,3 +48,5 @@ Genetic Algorithms techniques in solving a searching problem for optimization.
 ![Testindex 8_ Continue 2](https://user-images.githubusercontent.com/112272836/217852605-e3379486-5b2a-4d57-b311-762d76963b67.PNG)
 
 ![Testindex 8_ Continue 3_MyOutputBestSolution](https://user-images.githubusercontent.com/112272836/217852610-e0b52f74-ae50-41d8-866f-61b8ac0fbd87.PNG)
+
+-So, as seen above genetic algorithms that is based on GUIDED Randomness and Probability could reach a profit of 3794 ,where the profit reached optimally by dynamic programming is 3899 .
